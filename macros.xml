@@ -1,0 +1,8 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="optimize import &amp; align code">
+      <action id="ReformatCode" />
+      <action id="OptimizeImports" />
+    </macro>
+  </component>
+</application>
